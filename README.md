@@ -2,4 +2,5 @@
 
 [![My Github Stats](https://github-readme-stats.vercel.app/api?username=vinnyA3)](https://github.com/anuraghazra/github-readme-stats)
 
-📌 https://github.com/hakluke/how-to-exit-vim 😆
+> Was it the most elegant code?  No.  But did it get the job done?  Also no.
+> - @GabriellaG439
