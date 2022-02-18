@@ -1,6 +1,7 @@
-## Hi! :wave: I'm Vin, thanks for visiting!
+<div align="left">
+  <img style="display: inline-block;" src="./.github/my-jpegs/throw-me-some-numbers.jpeg" height="300" width="320" />
+  <img style="display: inline-block; height: auto; max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=vinnyA3" />
+</div>
+<br/>
 
-[![My Github Stats](https://github-readme-stats.vercel.app/api?username=vinnyA3)](https://github.com/anuraghazra/github-readme-stats)
-
-> Was it the most elegant code?  No.  But did it get the job done?  Also no.
-> - @GabriellaG439
+> Did the code make sense?  No.  But did the code get the job done?  Also no.
